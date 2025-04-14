@@ -1,0 +1,16 @@
+{
+    "steps": [
+        "step 1: Navigate to web/index.php/*/*",
+        "step 2: Click on link pim -> Navigate to page 'dynamic content#web/index.php/*/viewEmployeeList'",
+        "step 3: Click on button add -> Navigate to page 'dynamic content#web/index.php/*/*'",
+        "step 4: Click on input firstName",
+        "step 5: Enter input value in input firstName",
+        "step 6: Enter input value in input lastName",
+        "step 7: Click on label createLoginDetails",
+        "step 8: Enter input value in input loginDetails",
+        "step 9: Enter input value in input password",
+        "step 10: Enter input value in input passwordDuplicate",
+        "step 11: Click on button saveFinal -> Navigate to page ''",
+        "step 12: Take full page screenshot as checkpoint"
+    ]
+}
