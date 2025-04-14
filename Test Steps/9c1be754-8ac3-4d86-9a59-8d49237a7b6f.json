@@ -1,0 +1,23 @@
+{
+    "steps": [
+        "step 1: Navigate to web/index.php/*/*",
+        "step 2: Click on link viewAdmin",
+        "step 3: Click on i object4",
+        "step 4: Click on link emailConfiguration",
+        "step 5: Click on button reset",
+        "step 6: Click on item configuration",
+        "step 7: Click on link emailSubscriptions",
+        "step 8: Click on label object",
+        "step 9: Click on label dynamicObject (object2)",
+        "step 10: Click on label dynamicObject (object3)",
+        "step 11: Click on div tableCellActions",
+        "step 12: Click on label dynamicObject (object4)",
+        "step 13: Click on label dynamicObject (object5)",
+        "step 14: Click on i configurationIcon",
+        "step 15: Click on link localization -> Navigate to page 'dynamic content#web/index.php/*/localization'",
+        "step 16: Click on button save4",
+        "step 17: Click on item configuration2",
+        "step 18: Click on list emailConfiguration -> Navigate to page 'dynamic content#web/index.php/*/*'",
+        "step 19: Take full page screenshot as checkpoint"
+    ]
+}
